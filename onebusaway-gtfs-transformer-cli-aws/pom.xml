@@ -11,7 +11,7 @@
 	<parent>
 		<groupId>org.onebusaway</groupId>
 		<artifactId>onebusaway-gtfs-modules</artifactId>
-		<version>1.3.96-SNAPSHOT-cs</version>
+		<version>1.3.96cs-SNAPSHOT</version>
 	</parent>
 
 	<properties>
